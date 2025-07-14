@@ -1,0 +1,8 @@
+# Treat all text files as UTF-8
+* text=auto
+
+# Mark Python files
+*.py linguist-language=Python
+
+# Normalize line endings
+*.py eol=lf

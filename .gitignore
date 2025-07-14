@@ -1,0 +1,24 @@
+
+---
+
+## ✅ 3. `.gitignore`
+
+```gitignore
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
